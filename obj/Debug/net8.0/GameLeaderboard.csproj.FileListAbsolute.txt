@@ -1,0 +1,15 @@
+C:\Users\karin\source\repos\lab03-rbtree-karinakliuchuk\bin\Debug\net8.0\GameLeaderboard.exe
+C:\Users\karin\source\repos\lab03-rbtree-karinakliuchuk\bin\Debug\net8.0\GameLeaderboard.deps.json
+C:\Users\karin\source\repos\lab03-rbtree-karinakliuchuk\bin\Debug\net8.0\GameLeaderboard.runtimeconfig.json
+C:\Users\karin\source\repos\lab03-rbtree-karinakliuchuk\bin\Debug\net8.0\GameLeaderboard.dll
+C:\Users\karin\source\repos\lab03-rbtree-karinakliuchuk\bin\Debug\net8.0\GameLeaderboard.pdb
+C:\Users\karin\source\repos\lab03-rbtree-karinakliuchuk\obj\Debug\net8.0\GameLeaderboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karin\source\repos\lab03-rbtree-karinakliuchuk\obj\Debug\net8.0\GameLeaderboard.AssemblyInfoInputs.cache
+C:\Users\karin\source\repos\lab03-rbtree-karinakliuchuk\obj\Debug\net8.0\GameLeaderboard.AssemblyInfo.cs
+C:\Users\karin\source\repos\lab03-rbtree-karinakliuchuk\obj\Debug\net8.0\GameLeaderboard.csproj.CoreCompileInputs.cache
+C:\Users\karin\source\repos\lab03-rbtree-karinakliuchuk\obj\Debug\net8.0\GameLeaderboard.sourcelink.json
+C:\Users\karin\source\repos\lab03-rbtree-karinakliuchuk\obj\Debug\net8.0\GameLeaderboard.dll
+C:\Users\karin\source\repos\lab03-rbtree-karinakliuchuk\obj\Debug\net8.0\refint\GameLeaderboard.dll
+C:\Users\karin\source\repos\lab03-rbtree-karinakliuchuk\obj\Debug\net8.0\GameLeaderboard.pdb
+C:\Users\karin\source\repos\lab03-rbtree-karinakliuchuk\obj\Debug\net8.0\GameLeaderboard.genruntimeconfig.cache
+C:\Users\karin\source\repos\lab03-rbtree-karinakliuchuk\obj\Debug\net8.0\ref\GameLeaderboard.dll
